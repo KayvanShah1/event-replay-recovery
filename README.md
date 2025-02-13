@@ -22,3 +22,7 @@ Run this command to install it in your conda environment:
 ```bash
 pip install -r requirements.txt
 ```
+
+## References
+1. [Apache Kafka - KRaft Mode: Setup](https://dev.to/deeshath/apache-kafka-kraft-mode-setup-5nj)
+2. [Kafka Cluster with Docker Compose](https://medium.com/@erkndmrl/kafka-cluster-with-docker-compose-5864d50f677e)

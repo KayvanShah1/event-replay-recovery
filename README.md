@@ -1,6 +1,19 @@
 # Event Replay Recovery
 A tool for recovering and replaying missed events in an event-driven system, ensuring accurate recalculations without relying on traditional databases.
 
+## Scenario: Monitoring Temperature of Equipment Using Sensors
+- **Context**: Monitoring industrial machinery using temperature sensors that emit timestamped events, including temperature readings and status (normal or deviated).
+  
+- **Problem**: Errors like missing, corrupted, or out-of-range events can affect data accuracy, crucial for maintaining safe machinery operation. Events may also be missed due to network issues or processing failures.
+
+- **Goal**: Aggregate and process temperature data, reprocess missing or erroneous events, and generate synthetic data for gaps to ensure complete, accurate time series for analysis.
+
+> ### Assumptions Made:
+> 1. **Data Integrity**: Events include timestamps, necessary for sequencing and identifying missing data.
+> 2. **Out-of-Range Values**: Valid temperature range is 50–55°C; any values outside this range are erroneous.
+> 3. **Error Rates**: ~5% of data may be out-of-range, and 10% may be missing (simulated).
+
+
 ## Setup Steps
 **1. Create Conda Environment:**
 

@@ -1,0 +1,60 @@
+{"timestamp": 1739663641, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.58496471315163, "status": "normal"}
+{"timestamp": 1739663642, "event_type": "TEMPERATURE_SENSOR", "temperature": 53.43344539199717, "status": "normal"}
+{"timestamp": 1739663643, "event_type": "TEMPERATURE_SENSOR", "temperature": 50.98295167985479, "status": "normal"}
+{"timestamp": 1739663644, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.58029886705387, "status": "normal"}
+{"timestamp": 1739663645, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.12383026302979, "status": "normal"}
+{"timestamp": 1739663646, "event_type": "TEMPERATURE_SENSOR", "temperature": 52.838126268758536, "status": "normal"}
+{"timestamp": 1739663647, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.313380367564115, "status": "normal"}
+{"timestamp": 1739663648, "event_type": "TEMPERATURE_SENSOR", "temperature": 54.5982892296935, "status": "normal"}
+{"timestamp": 1739663649, "event_type": "TEMPERATURE_SENSOR", "temperature": 53.24899216787743, "status": "normal"}
+{"timestamp": 1739663650, "event_type": "TEMPERATURE_SENSOR", "temperature": 56.75038617060129, "status": "high"}
+{"timestamp": 1739663651, "event_type": "TEMPERATURE_SENSOR", "temperature": 50.636683073789364, "status": "normal"}
+{"timestamp": 1739663652, "event_type": "TEMPERATURE_SENSOR", "temperature": 48.83135418342513, "status": "low"}
+{"timestamp": 1739663653, "event_type": "TEMPERATURE_SENSOR", "temperature": 58, "status": "corrected"}
+{"timestamp": 1739663654, "event_type": "TEMPERATURE_SENSOR", "temperature": 54.05866438647766, "status": "normal"}
+{"timestamp": 1739663655, "event_type": "TEMPERATURE_SENSOR", "temperature": 48.35120102126019, "status": "low"}
+{"timestamp": 1739663656, "event_type": "TEMPERATURE_SENSOR", "temperature": 52.83528589963292, "status": "normal"}
+{"timestamp": 1739663657, "event_type": "TEMPERATURE_SENSOR", "temperature": 58, "status": "corrected"}
+{"timestamp": 1739663658, "event_type": "TEMPERATURE_SENSOR", "temperature": 54.183163941034515, "status": "normal"}
+{"timestamp": 1739663659, "event_type": "TEMPERATURE_SENSOR", "temperature": 52.692651055013776, "status": "normal"}
+{"timestamp": 1739663660, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.49739753296868, "status": "normal", "synthetic": true}
+{"timestamp": 1739663661, "event_type": "TEMPERATURE_SENSOR", "temperature": 53.68228758140641, "status": "normal"}
+{"timestamp": 1739663662, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.426713293402926, "status": "normal"}
+{"timestamp": 1739663663, "event_type": "TEMPERATURE_SENSOR", "temperature": 52.75822992519513, "status": "normal"}
+{"timestamp": 1739663664, "event_type": "TEMPERATURE_SENSOR", "temperature": 52.58665050773918, "status": "normal"}
+{"timestamp": 1739663665, "event_type": "TEMPERATURE_SENSOR", "temperature": 54.68516567357638, "status": "normal"}
+{"timestamp": 1739663666, "event_type": "TEMPERATURE_SENSOR", "temperature": 49.33929636075894, "status": "low"}
+{"timestamp": 1739663667, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.805335673127765, "status": "normal"}
+{"timestamp": 1739663668, "event_type": "TEMPERATURE_SENSOR", "temperature": 52.41970579669822, "status": "normal"}
+{"timestamp": 1739663669, "event_type": "TEMPERATURE_SENSOR", "temperature": 54.814904307574814, "status": "normal"}
+{"timestamp": 1739663670, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.95520482020987, "status": "normal"}
+{"timestamp": 1739663976, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.72263559424411, "status": "normal"}
+{"timestamp": 1739663977, "event_type": "TEMPERATURE_SENSOR", "temperature": 49.65235097722318, "status": "normal", "synthetic": true}
+{"timestamp": 1739663978, "event_type": "TEMPERATURE_SENSOR", "temperature": 52.311022969194426, "status": "normal"}
+{"timestamp": 1739663979, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.96722606233169, "status": "normal", "synthetic": true}
+{"timestamp": 1739663980, "event_type": "TEMPERATURE_SENSOR", "temperature": 47, "status": "corrected"}
+{"timestamp": 1739663981, "event_type": "TEMPERATURE_SENSOR", "temperature": 49.53900431620675, "status": "low"}
+{"timestamp": 1739663982, "event_type": "TEMPERATURE_SENSOR", "temperature": 47.66678988773742, "status": "low"}
+{"timestamp": 1739663983, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.23850658932326, "status": "normal", "synthetic": true}
+{"timestamp": 1739663984, "event_type": "TEMPERATURE_SENSOR", "temperature": 54.634495633788084, "status": "normal"}
+{"timestamp": 1739663985, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.209031102889206, "status": "normal"}
+{"timestamp": 1739663986, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.680937930880006, "status": "normal", "synthetic": true}
+{"timestamp": 1739663987, "event_type": "TEMPERATURE_SENSOR", "temperature": 55.46478840731015, "status": "high"}
+{"timestamp": 1739663988, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.259151881769334, "status": "normal"}
+{"timestamp": 1739663989, "event_type": "TEMPERATURE_SENSOR", "temperature": 50.89620825577152, "status": "normal"}
+{"timestamp": 1739663990, "event_type": "TEMPERATURE_SENSOR", "temperature": 54.08194094251429, "status": "normal", "synthetic": true}
+{"timestamp": 1739663991, "event_type": "TEMPERATURE_SENSOR", "temperature": 52.006716713369585, "status": "normal"}
+{"timestamp": 1739663992, "event_type": "TEMPERATURE_SENSOR", "temperature": 52.09233832348483, "status": "normal"}
+{"timestamp": 1739663993, "event_type": "TEMPERATURE_SENSOR", "temperature": 53.29124217407612, "status": "normal", "synthetic": true}
+{"timestamp": 1739663994, "event_type": "TEMPERATURE_SENSOR", "temperature": 54.73667149173695, "status": "normal"}
+{"timestamp": 1739663995, "event_type": "TEMPERATURE_SENSOR", "temperature": 52.82311318622934, "status": "normal"}
+{"timestamp": 1739663996, "event_type": "TEMPERATURE_SENSOR", "temperature": 52.83066866419703, "status": "normal"}
+{"timestamp": 1739663997, "event_type": "TEMPERATURE_SENSOR", "temperature": 53.990478144632256, "status": "normal", "synthetic": true}
+{"timestamp": 1739663998, "event_type": "TEMPERATURE_SENSOR", "temperature": 53.98182893532664, "status": "normal"}
+{"timestamp": 1739663999, "event_type": "TEMPERATURE_SENSOR", "temperature": 55.921263130447755, "status": "high"}
+{"timestamp": 1739664000, "event_type": "TEMPERATURE_SENSOR", "temperature": 49.87330976641188, "status": "low"}
+{"timestamp": 1739664001, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.56645299604379, "status": "normal"}
+{"timestamp": 1739664002, "event_type": "TEMPERATURE_SENSOR", "temperature": 51.22340193984931, "status": "normal", "synthetic": true}
+{"timestamp": 1739664003, "event_type": "TEMPERATURE_SENSOR", "temperature": 54.431713158982156, "status": "normal"}
+{"timestamp": 1739664004, "event_type": "TEMPERATURE_SENSOR", "temperature": 53.23714058526236, "status": "normal"}
+{"timestamp": 1739664005, "event_type": "TEMPERATURE_SENSOR", "temperature": 50.73977997103397, "status": "normal"}

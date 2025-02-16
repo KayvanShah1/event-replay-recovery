@@ -1,6 +1,5 @@
 name: 'stream'
 
-version: '3.8'
 services:
   kafka:
     image: confluentinc/cp-kafka:latest
@@ -24,6 +23,7 @@ services:
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1  # Since we’re running one broker, one replica is enough.
       KAFKA_LOG_RETENTION_HOURS: 168  # Keep logs for 7 days.
       KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0  # No delay for consumer rebalancing.
+      CLUSTER_ID: "Mk3OEYBSD34fcwNTJENDM2Qk"  # A unique ID for the Kafka cluster.
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - ./data:/var/lib/kafka/data  # Store Kafka logs on your local machine.
